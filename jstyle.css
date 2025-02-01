@@ -1,0 +1,25 @@
+#para1{
+font-size: 20px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    font-size: 25px;
+}
+#para2{
+    font-size: 20px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#para3{
+    
+}
+li{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+background-image: url("image copy 3.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-blend-mode: lighten;
+}
+
